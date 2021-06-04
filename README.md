@@ -1,12 +1,12 @@
 # challenge : pomodoro
 
-Mission :
+## Mission :
 
 - Display a big timer (minutes and seconds).
 - Buttons :
-  1) Play Button : that will allow the user to start the timer
-  2) Pause Button : will allow to put the timer on pause
-  3) Reset timer : will reset timer 
+1) Play Button : that will allow the user to start the timer
+2) Pause Button : will allow to put the timer on pause
+3) Reset timer : will reset timer 
 - Reset page after countdown over
 
 Update in comming : 
