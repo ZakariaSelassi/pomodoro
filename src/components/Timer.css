@@ -1,0 +1,38 @@
+.clock{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    padding:5rem;
+}
+h1{
+    text-align: center;
+    color: rgba(245, 243, 243, 0.891)
+}
+.clock-container{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+}
+.ControlleBtn{
+    height: 50px;
+    border-radius: 50px;
+    border : none;
+    cursor: pointer;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 100px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    padding: 1rem;
+}
+.hiddeBtn{
+    display: none;
+}
+.timer-msg{
+    display: flex;
+    justify-content: center;
+    padding-top : 1rem;
+}
