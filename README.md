@@ -9,17 +9,19 @@
 3) Reset timer : will reset timer 
 - Reset page after countdown over
 
-Update in comming : 
+### Update in comming : 
 
 - Add buttons to change session duration
 - Add Message after coutdown is over
 
-Tools used :
+### Tools used :
 
 - npx create-react app / parcel 
 - npm timer (circle color)
 - npm "moment" (convert time)
 - npm gh-pages (first deployment project react on github)
+
+### Try it !
 
 [pomodoro](https://zakariaselassi.github.io/pomodoro/)
 
